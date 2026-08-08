@@ -57,28 +57,28 @@ npm run dev
 Runs at `http://localhost:5173` and talks to the backend at
 `http://localhost:8000` (configured in `frontend/.env`).
 
-
 ## 📸 Screenshots
 
-### Dashboard
+### 🔐 Login
+![ChurnIQ Login](screenshots/login.png)
+
+### 📊 Dashboard
 ![ChurnIQ Dashboard](screenshots/dashboard.png)
 
-### Customer Churn Prediction
+### 🎯 Customer Churn Prediction
 ![Churn Prediction](screenshots/prediction.png)
 
-### SHAP Explainability
+### 🔍 SHAP Explainability
 ![SHAP Explanation](screenshots/shap-explanation.png)
 
-### AI Retention Assistant
-![AI Assistant](screenshots/ai-assistant.png)
+### 👥 Customer Management
+![Customer Management](screenshots/customers.png)
 
-### Customer Management
-![Customers](screenshots/customers.png)
-
-### Reports
+### 📄 Reports
 ![Reports](screenshots/reports.png)
 
-
+### 📑 PDF Report
+![PDF Report](screenshots/report_pdf.png)
 ## Project structure
 
 ```
