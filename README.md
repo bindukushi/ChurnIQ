@@ -59,17 +59,11 @@ Runs at `http://localhost:5173` and talks to the backend at
 
 ## 📸 Screenshots
 
-### 🔐 Login
-![ChurnIQ Login](screenshots/login.png)
-
 ### 📊 Dashboard
 ![ChurnIQ Dashboard](screenshots/dashboard.png)
 
 ### 🎯 Customer Churn Prediction
 ![Churn Prediction](screenshots/prediction.png)
-
-### 🔍 SHAP Explainability
-![SHAP Explanation](screenshots/shap-explanation.png)
 
 ### 👥 Customer Management
 ![Customer Management](screenshots/customers.png)
