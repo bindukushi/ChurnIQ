@@ -57,7 +57,6 @@ npm run dev
 Runs at `http://localhost:5173` and talks to the backend at
 `http://localhost:8000` (configured in `frontend/.env`).
 
-```
 
 ## 📸 Screenshots
 
@@ -79,7 +78,6 @@ Runs at `http://localhost:5173` and talks to the backend at
 ### Reports
 ![Reports](screenshots/reports.png)
 
-```
 
 ## Project structure
 
